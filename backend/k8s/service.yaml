@@ -1,0 +1,14 @@
+# k8s/service.yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: devops-dashboard
+spec:
+  type: NodePort
+  selector:
+    app: devops-dashboard
+  ports:
+    - protocol: TCP
+      port: 5000
+      targetPort: 5000
+      nodePort: 30007
