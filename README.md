@@ -169,6 +169,18 @@ capstone-project/
 
 ---
 
+## Sample Alerting
+
+![Alert Screenshot 1](./assets/Sample%20Alerting/Screenshot%202025-09-02%20211214.png)  
+![Alert Screenshot 2](./assets/Sample%20Alerting/Screenshot%202025-09-02%20211230.png)  
+
+## Sample Dashboard
+
+![Dashboard Screenshot 1](./assets/Sample%20Dashboard/Screenshot%202025-09-02%20211329.png)  
+![Dashboard Screenshot 2](./assets/Sample%20Dashboard/WhatsApp%20Image%202025-08-04%20at%2001.11.16_71ff2d00.jpg)  
+![Dashboard Screenshot 3](./assets/Sample%20Dashboard/WhatsApp%20Image%202025-08-16%20at%2020.55.17_40bb921b.jpg)  
+
+
 ## 🔮 Future Enhancements
 
 * Multi-cloud support (**Azure, GCP**).
